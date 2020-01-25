@@ -1,2 +1,1 @@
-# docusaurus
-Docusaurus 2.0 based build
+This is a sample Docusaurus 2.0 build.
